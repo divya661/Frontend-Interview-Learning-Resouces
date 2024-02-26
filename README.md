@@ -1,5 +1,5 @@
-# Frontend-Interview-Learning-Resouces
-Contains list of documents, links &amp; other resources for the preparation of Frontend SDE-2 developer
+# Frontend Interview Learning Resouces
+Contains list of documents, links &amp; other resources for the preparation of Frontend SDE-1 & 2 developer
 
 # Webpack
 - Webpack Concepts: https://dev.to/jasmin/learning-webpack-concepts-and-creating-your-custom-webpack-plugin-gal
