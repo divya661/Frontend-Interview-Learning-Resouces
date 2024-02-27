@@ -21,3 +21,6 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # Build Tools
 - A build tool is a program-based utility that can be structured as a command line to automate the application-building process.
 - https://engineering.teknasyon.com/frontend-build-tools-a2ce927ab0ab
+
+# Misclaneous Topics
+- https://dev.to/vyckes/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
