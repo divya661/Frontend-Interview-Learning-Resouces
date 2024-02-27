@@ -13,3 +13,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 
 # Service Worker
 - https://www.youtube.com/watch?v=ksXwaWHCW6k
+
+# React/ Redux 
+- https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba#1-create-components-in-react
+- https://scrimba.com/articles/react-interview-questions/
