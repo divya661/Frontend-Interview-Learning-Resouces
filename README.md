@@ -10,3 +10,6 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block
 - https://css-tricks.com/almanac/properties/p/position/
 - https://css-tricks.com/specifics-on-css-specificity/
+
+# Service Worker
+- https://www.youtube.com/watch?v=ksXwaWHCW6k
