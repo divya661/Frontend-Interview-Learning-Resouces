@@ -17,3 +17,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # React/ Redux 
 - https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba#1-create-components-in-react
 - https://scrimba.com/articles/react-interview-questions/
+
+# Build Tools
+- A build tool is a program-based utility that can be structured as a command line to automate the application-building process.
+- https://engineering.teknasyon.com/frontend-build-tools-a2ce927ab0ab
