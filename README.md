@@ -24,3 +24,4 @@ Contains list of documents, links &amp; other resources for the preparation of F
 
 # Misclaneous Topics
 - https://dev.to/vyckes/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
+- https://dev.to/vyckes/interfacing-your-ui-components-5c52
