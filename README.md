@@ -45,8 +45,10 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.linkedin.com/advice/0/how-do-you-balance-risks-benefits-rolling
 
 # Documentation of UI
+- https://blog.bitsrc.io/6-tools-for-documenting-your-react-components-like-a-pro-5027cdfb40c6
 
 # Testing UI
+- https://www.browserstack.com/guide/react-testing-tutorial
 
 # Graphana Metrics
 - https://grafana.com/docs/grafana-cloud/introduction/metrics-and-visualizations/
