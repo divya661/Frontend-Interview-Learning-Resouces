@@ -32,3 +32,23 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://stackoverflow.com/questions/2794137/sanitizing-user-input-before-adding-it-to-the-dom-in-javascript
 - https://stackoverflow.com/questions/3493405/do-i-really-need-to-encode-as-amp
 - https://www.telerik.com/blogs/how-to-prevent-cross-site-scripting-xss-javascript
+- https://www.stackhawk.com/blog/react-xss-guide-examples-and-prevention/
+- https://legacy.reactjs.org/docs/introducing-jsx.html#jsx-prevents-injection-attacks
+- https://legacy.reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml
+- https://stackoverflow.com/questions/43584685/input-sanitization-in-reactjs
+
+# CORS
+- https://web.dev/articles/cross-origin-resource-sharing
+
+# SDLC 
+- https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+
+# Documentation of UI
+
+# Testing UI
+
+# Graphana Metrics
+
+# CI/CD
+- https://www.browserstack.com/guide/azure-cicd-pipeline
+
