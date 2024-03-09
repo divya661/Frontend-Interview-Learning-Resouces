@@ -27,3 +27,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # Misclaneous Topics
 - https://dev.to/vyckes/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
 - https://dev.to/vyckes/interfacing-your-ui-components-5c52
+
+# Saniting Inputs & XSS attack
+- https://stackoverflow.com/questions/2794137/sanitizing-user-input-before-adding-it-to-the-dom-in-javascript
+- https://stackoverflow.com/questions/3493405/do-i-really-need-to-encode-as-amp
