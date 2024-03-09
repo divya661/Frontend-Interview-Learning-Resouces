@@ -42,12 +42,14 @@ Contains list of documents, links &amp; other resources for the preparation of F
 
 # SDLC 
 - https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
+- https://www.linkedin.com/advice/0/how-do-you-balance-risks-benefits-rolling
 
 # Documentation of UI
 
 # Testing UI
 
 # Graphana Metrics
+- https://grafana.com/docs/grafana-cloud/introduction/metrics-and-visualizations/
 
 # CI/CD
 - https://www.browserstack.com/guide/azure-cicd-pipeline
