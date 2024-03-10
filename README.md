@@ -47,6 +47,8 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # Misclaneous Topics
 - https://dev.to/vyckes/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
 - https://dev.to/vyckes/interfacing-your-ui-components-5c52
+- https://blog.hubspot.com/website/web-accessibility
+- https://web.dev/learn/accessibility
 
 # Saniting Inputs & XSS attack
 - https://stackoverflow.com/questions/2794137/sanitizing-user-input-before-adding-it-to-the-dom-in-javascript
