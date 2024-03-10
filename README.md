@@ -21,6 +21,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://github.com/lydiahallie/javascript-questions
 - https://plainenglish.io/blog/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e
 - https://medium.com/swlh/implement-a-simple-promise-in-javascript-20c9705f197a
+- https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.m5h2jj8a7
 
 # React/ Redux 
 - https://github.com/acdlite/react-fiber-architecture
