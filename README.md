@@ -17,6 +17,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # Javascript
 - https://github.com/lydiahallie/javascript-questions
 - https://plainenglish.io/blog/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e
+- https://medium.com/swlh/implement-a-simple-promise-in-javascript-20c9705f197a
 
 # React/ Redux 
 - https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba#1-create-components-in-react
