@@ -19,6 +19,17 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://scrimba.com/articles/react-interview-questions/
 - https://github.com/sudheerj/reactjs-interview-questions
 - https://blog.logrocket.com/useeffect-react-hook-complete-guide/
+- https://www.patterns.dev/react/react-selective-hydration
+- https://www.patterns.dev/react/progressive-hydration
+- https://www.patterns.dev/react/react-server-components
+- https://www.patterns.dev/react/server-side-rendering
+- https://www.patterns.dev/react/static-rendering
+- https://www.patterns.dev/react/streaming-ssr
+- https://www.patterns.dev/react/compound-pattern
+- https://www.patterns.dev/react/hoc-pattern
+- https://www.patterns.dev/react/hooks-pattern
+- https://www.patterns.dev/react/presentational-container-pattern
+- https://www.patterns.dev/react/render-props-pattern
 
 # Build Tools
 - A build tool is a program-based utility that can be structured as a command line to automate the application-building process.
