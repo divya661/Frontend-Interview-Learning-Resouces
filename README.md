@@ -40,12 +40,17 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # CORS
 - https://web.dev/articles/cross-origin-resource-sharing
 
-# SDLC 
+# SDLC & Project Management
 - https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
 - https://www.linkedin.com/advice/0/how-do-you-balance-risks-benefits-rolling
+- https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa
+- https://www.codesee.io/learning-center/code-refactoring
+- https://www.linkedin.com/advice/1/how-can-you-improve-your-front-end-code-quality
+- https://www.geeksforgeeks.org/product-life-cycle-management-definition-and-stages/
 
 # Documentation of UI
 - https://blog.bitsrc.io/6-tools-for-documenting-your-react-components-like-a-pro-5027cdfb40c6
+- https://www.geeksforgeeks.org/overview-software-documentation/
 
 # Testing UI
 - https://www.browserstack.com/guide/react-testing-tutorial
