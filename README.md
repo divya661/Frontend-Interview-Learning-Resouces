@@ -30,6 +30,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.patterns.dev/react/hooks-pattern
 - https://www.patterns.dev/react/presentational-container-pattern
 - https://www.patterns.dev/react/render-props-pattern
+- https://react.dev/learn/escape-hatches
 
 # Build Tools
 - A build tool is a program-based utility that can be structured as a command line to automate the application-building process.
