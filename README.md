@@ -1,6 +1,9 @@
 # Frontend Interview Learning Resouces
 Contains list of documents, links &amp; other resources for the preparation of Frontend SDE-1 & 2 developer
 
+# Critical Rendering Path
+- https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a
+
 # Webpack
 - Webpack Concepts: https://dev.to/jasmin/learning-webpack-concepts-and-creating-your-custom-webpack-plugin-gal
 - How Webpack Uses Dependency Graph: https://dev.to/jasmin/how-dependancy-graph-in-webpack-resolve-module-dependency-5ej4
@@ -20,6 +23,8 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://medium.com/swlh/implement-a-simple-promise-in-javascript-20c9705f197a
 
 # React/ Redux 
+- https://github.com/acdlite/react-fiber-architecture
+- https://www.javatpoint.com/react-flux-concept
 - https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba#1-create-components-in-react
 - https://scrimba.com/articles/react-interview-questions/
 - https://github.com/sudheerj/reactjs-interview-questions
