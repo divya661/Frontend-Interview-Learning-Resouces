@@ -68,7 +68,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 # CORS
 - https://web.dev/articles/cross-origin-resource-sharing
 
-# SDLC & Project Management
+# SDLC, SOLID Principles & Project Management
 - https://www.geeksforgeeks.org/software-development-life-cycle-sdlc/
 - https://www.linkedin.com/advice/0/how-do-you-balance-risks-benefits-rolling
 - https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa
