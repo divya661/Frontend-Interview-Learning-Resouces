@@ -1,3 +1,7 @@
+// Promise.all([arrray of tasks/API]).then([data1,data2,...]=>{}).catch((error))=>{
+//     ...
+// }
+
 Promise.myall = function(tasksArray){
     return new Promise((resolve, reject) => {
       const output = [];
