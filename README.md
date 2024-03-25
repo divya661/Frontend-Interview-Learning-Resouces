@@ -24,6 +24,11 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.m5h2jj8a7
 - https://imfaber.me/composition-over-inheritance-in-javascript/
 
+# Javascript Internals
+- https://www.loginradius.com/blog/engineering/javascript-events-bubbling-capturing-and-propagation/
+- https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/
+- https://www.freecodecamp.org/news/mutability-vs-immutability-in-javascript/
+
 # React/ Redux 
 - https://github.com/acdlite/react-fiber-architecture
 - https://www.javatpoint.com/react-flux-concept
@@ -43,6 +48,8 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.patterns.dev/react/presentational-container-pattern
 - https://www.patterns.dev/react/render-props-pattern
 - https://react.dev/learn/escape-hatches
+- https://medium.com/@prashant.andani/unveiling-the-internals-of-reactjs-a-deep-dive-into-its-inner-workings-61d1dcd07f28
+- https://www.spec-india.com/blog/react-classes-vs-functions
 
 # Build Tools
 - A build tool is a program-based utility that can be structured as a command line to automate the application-building process.
