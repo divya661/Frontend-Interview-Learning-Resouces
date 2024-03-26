@@ -13,6 +13,11 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block
 - https://css-tricks.com/almanac/properties/p/position/
 - https://css-tricks.com/specifics-on-css-specificity/
+- https://www.geeksforgeeks.org/explain-the-scenario-to-use-translate-instead-of-absolute-positioning-in-css/
+- https://www.w3schools.com/css/css3_animations.asp
+- https://www.w3schools.com/css/css3_transitions.asp
+- https://www.w3schools.com/css/css3_2dtransforms.asp
+- https://stackoverflow.com/questions/7108941/css-transform-vs-position
 
 # Service Worker
 - https://www.youtube.com/watch?v=ksXwaWHCW6k
@@ -28,6 +33,9 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.loginradius.com/blog/engineering/javascript-events-bubbling-capturing-and-propagation/
 - https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/
 - https://www.freecodecamp.org/news/mutability-vs-immutability-in-javascript/
+- https://stackoverflow.com/questions/18541940/map-vs-object-in-javascript
+- https://stackoverflow.com/questions/9959727/proto-vs-prototype-in-javascript
+- https://medium.com/@eamonocallaghan/prototype-vs-proto-vs-prototype-in-javascript-6758cadcbae8
 
 # React/ Redux 
 - https://github.com/acdlite/react-fiber-architecture
