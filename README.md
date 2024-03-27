@@ -1,6 +1,10 @@
 # Frontend Interview Learning Resouces
 Contains list of documents, links &amp; other resources for the preparation of Frontend SDE-1 & 2 developer
 
+# Web Dev Concepts
+- https://www.domain.com/blog/what-is-a-redirect/
+- https://www.geeksforgeeks.org/10-most-common-http-status-codes/
+- 
 # Critical Rendering Path
 - https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a
 
@@ -71,6 +75,9 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://web.dev/articles/optimize-lcp
 - https://web.dev/articles/cls
 - https://web.dev/articles/optimize-cls
+- https://www.quora.com/What-is-the-limit-of-meta-keywords-tags
+- https://developers.google.com/search/docs/fundamentals/get-started-developers
+- https://medium.com/@coderacademy/15-seo-tips-every-front-end-developer-should-know-in-2016-d579b7cefb01
 
 # Misclaneous Topics
 - https://dev.to/vyckes/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
@@ -111,4 +118,5 @@ Contains list of documents, links &amp; other resources for the preparation of F
 
 # CI/CD
 - https://www.browserstack.com/guide/azure-cicd-pipeline
+  
 
