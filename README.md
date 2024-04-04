@@ -32,6 +32,8 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://medium.com/swlh/implement-a-simple-promise-in-javascript-20c9705f197a
 - https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.m5h2jj8a7
 - https://imfaber.me/composition-over-inheritance-in-javascript/
+- https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context
+- https://jsvault.com
 
 # Javascript Internals
 - https://www.loginradius.com/blog/engineering/javascript-events-bubbling-capturing-and-propagation/
