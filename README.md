@@ -47,6 +47,14 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://stackoverflow.com/questions/9959727/proto-vs-prototype-in-javascript
 - https://medium.com/@eamonocallaghan/prototype-vs-proto-vs-prototype-in-javascript-6758cadcbae8
 
+# Machine Coding (in general things to remember):
+- `clientHeight` = the height of an element + the vertical padding.
+- `offsetHeight` = the height of the element + the vertical padding + the top and bottom borders + the horizontal scrollbar (if it's available).
+- `scrollHeight` = the height of element's content (including the content which isn't visible on the screen) + the vertical padding.
+- https://stackoverflow.com/questions/6073505/what-is-the-difference-between-screenx-y-clientx-y-and-pagex-y
+- https://jwood206.medium.com/positioning-with-mouse-events-offset-getboundingclientrect-and-getcomputedstyle-afe12bfcb5f
+- https://www.youtube.com/watch?v=dxADq_DlS-w
+
 # React/ Redux 
 - https://github.com/acdlite/react-fiber-architecture
 - https://www.javatpoint.com/react-flux-concept
@@ -124,10 +132,3 @@ Contains list of documents, links &amp; other resources for the preparation of F
 
 # CI/CD
 - https://www.browserstack.com/guide/azure-cicd-pipeline
-  
-# Machine Coding (in general things to remember):
-- `clientHeight` = the height of an element + the vertical padding.
-- `offsetHeight` = the height of the element + the vertical padding + the top and bottom borders + the horizontal scrollbar (if it's available).
-- `scrollHeight` = the height of element's content (including the content which isn't visible on the screen) + the vertical padding.
-- https://stackoverflow.com/questions/6073505/what-is-the-difference-between-screenx-y-clientx-y-and-pagex-y
-- 
