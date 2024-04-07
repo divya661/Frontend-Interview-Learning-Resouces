@@ -22,6 +22,8 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.w3schools.com/css/css3_transitions.asp
 - https://www.w3schools.com/css/css3_2dtransforms.asp
 - https://stackoverflow.com/questions/7108941/css-transform-vs-position
+- https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image
+- https://html.com/attributes/img-srcset/#:~:text=The%20srcset%20attribute%20allows%20you,that%20don't%20support%20srcset%20.
 
 # Service Worker
 - https://www.youtube.com/watch?v=ksXwaWHCW6k
