@@ -25,6 +25,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-image
 - https://html.com/attributes/img-srcset/#:~:text=The%20srcset%20attribute%20allows%20you,that%20don't%20support%20srcset%20.
 - https://www.tutorialspoint.com/css/css_positioning.htm
+- https://stackoverflow.com/questions/43169327/canvas-simply-moving-a-rectangle-from-left-to-right
 
 # Service Worker
 - https://www.youtube.com/watch?v=ksXwaWHCW6k
