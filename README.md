@@ -54,6 +54,9 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://stackoverflow.com/questions/6073505/what-is-the-difference-between-screenx-y-clientx-y-and-pagex-y
 - https://jwood206.medium.com/positioning-with-mouse-events-offset-getboundingclientrect-and-getcomputedstyle-afe12bfcb5f
 - https://www.youtube.com/watch?v=dxADq_DlS-w
+- https://www.w3schools.com/jsref/obj_mouseevent.asp
+- https://www.w3schools.com/jsref/obj_touchevent.asp
+- https://www.w3schools.com/jsref/obj_keyboardevent.asp
 
 # React/ Redux 
 - https://github.com/acdlite/react-fiber-architecture
