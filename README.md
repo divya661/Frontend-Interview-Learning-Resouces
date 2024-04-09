@@ -31,6 +31,7 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.youtube.com/watch?v=ksXwaWHCW6k
 
 # Javascript
+- https://www.geeksforgeeks.org/what-is-event-propagation-capturing-bubbling/
 - https://github.com/lydiahallie/javascript-questions
 - https://plainenglish.io/blog/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e
 - https://medium.com/swlh/implement-a-simple-promise-in-javascript-20c9705f197a
