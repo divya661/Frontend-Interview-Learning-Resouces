@@ -1,0 +1,42 @@
+AsyncParallelMap = function (taskList, callback) {
+  const results = [];
+  let totalTaskResolved = 0;
+
+  taskList.forEach((curTask) => {
+    curTask((value) => {
+      results.push(value);
+      totalTaskResolved++;
+      if (totalTaskResolved >= taskList.length) {
+        callback.call(null, results);
+      }
+    });
+  });
+};
+
+const taskList = [
+  function (cb) {
+    setTimeout(() => {
+      cb(1);
+    }, 88);
+  },
+  function (cb) {
+    setTimeout(() => {
+      cb(2);
+    }, 93);
+  },
+  function (cb) {
+    setTimeout(() => {
+      cb(3);
+    }, 42);
+  },
+  function (cb) {
+    setTimeout(() => {
+      cb(4);
+    }, 90);
+  },
+];
+
+AsyncParallelMap(taskList, (results) => {
+  console.log("output is", results);
+});
+
