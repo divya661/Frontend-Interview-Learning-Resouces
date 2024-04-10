@@ -1,0 +1,54 @@
+AsyncSeriesMap = function (taskList, callback) {
+  let results = [];
+  let totalTaskResolved = 0;
+
+  taskList.reduce((acc, curTask) => {
+    return acc.then(() => {
+      return new Promise((resolve, reject) => {
+        curTask((value) => {
+          console.log(value);
+          results.push(value);
+          totalTaskResolved++;
+          if (totalTaskResolved === taskList.length) {
+            callback.call(null, results);
+          } else resolve(value);
+        });
+      });
+    });
+  }, Promise.resolve());
+};
+
+const createAsyncTask = function () {
+  const value = Math.floor(Math.random() * 100);
+  return function (cb) {
+    setTimeout(() => {
+      cb(i);
+    }, value);
+  };
+};
+
+const taskList = [
+  function (cb) {
+    setTimeout(() => {
+      cb(1);
+    }, 88);
+  },
+  function (cb) {
+    setTimeout(() => {
+      cb(2);
+    }, 93);
+  },
+  function (cb) {
+    setTimeout(() => {
+      cb(3);
+    }, 42);
+  },
+  function (cb) {
+    setTimeout(() => {
+      cb(4);
+    }, 90);
+  },
+];
+AsyncSeriesMap(taskList, (results) => {
+  console.log("output is", results);
+});
