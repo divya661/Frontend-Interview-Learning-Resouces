@@ -60,6 +60,8 @@ Contains list of documents, links &amp; other resources for the preparation of F
 - https://www.w3schools.com/jsref/obj_keyboardevent.asp
 
 # React/ Redux 
+- https://daveceddia.com/why-not-modify-react-state-directly/
+- https://daveceddia.com/react-redux-immutability-guide
 - https://github.com/acdlite/react-fiber-architecture
 - https://www.javatpoint.com/react-flux-concept
 - https://dev.to/suprabhasupi/react-redux-interview-questions-with-answers-13ba#1-create-components-in-react
